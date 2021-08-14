@@ -1,8 +1,7 @@
 {
-  "name": "@scss-icons/themify-icons",
-  "version": "1.0.0",
-  "main": "themify-icons/_themify-icons.scss",
-  "style": "themify-icons/_themify-icons.scss",
+  "name": "@scss-icons/themify-icons-scss",
+  "version": "1.2.0",
+  "main": "src/scss/themify-icons.scss",
   "description": "Fonts for themify icons",
   "repository": {
     "type": "git",
