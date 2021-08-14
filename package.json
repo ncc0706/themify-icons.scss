@@ -1,11 +1,24 @@
 {
-  "name": "themify-icons-sass",
-  "version": "1.1.0",
-  "description": "Fonts for Themify Icons",
+  "name": "@scss-icons/themify-icons",
+  "version": "1.0.0",
+  "main": "themify-icons/_themify-icons.scss",
+  "style": "themify-icons/_themify-icons.scss",
+  "description": "Fonts for themify icons",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/aastrong/themify-icons.scss.git"
+    "url": "git+https://github.com/ncc0706/themify-icons.scss"
   },
   "license": "MIT",
-  "homepage": "https://themify.me/themify-icons"
+  "homepage": "https://themify.me/themify-icons",
+  "bugs": {
+    "url": "https://github.com/ncc0706/themify-icons.scss/issues"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "scss-icons",
+    "themify-icons"
+  ],
+  "author": ""
 }
